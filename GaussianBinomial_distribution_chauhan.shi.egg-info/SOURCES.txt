@@ -1,0 +1,9 @@
+setup.py
+GaussianBinomial_distribution_chauhan.shi.egg-info/PKG-INFO
+GaussianBinomial_distribution_chauhan.shi.egg-info/SOURCES.txt
+GaussianBinomial_distribution_chauhan.shi.egg-info/dependency_links.txt
+GaussianBinomial_distribution_chauhan.shi.egg-info/top_level.txt
+distributions/Binomialdistribution.py
+distributions/Gaussiandistribution.py
+distributions/Generaldistribution.py
+distributions/__init__.py
